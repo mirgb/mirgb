@@ -1,2 +1,3 @@
-######⚡ I'm currently learning:\n
-🌱 Web Development
+Currently learning:
+
+    📘 Web Development
