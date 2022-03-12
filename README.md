@@ -1,3 +1,1 @@
-Currently learning:
-
-    📘 Web Development
+Hello!
